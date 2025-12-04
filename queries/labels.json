@@ -1,0 +1,92 @@
+[
+    {
+        "query": "petrol",
+        "relevant_docs": [
+            "doc_38",
+            "doc_2527",
+            "doc_267",
+            "doc_544",
+            "doc_23"
+        ]
+    },
+    {
+        "query": "petrol sindh government",
+        "relevant_docs": [
+            "doc_267",
+            "doc_2527",
+            "doc_544",
+            "doc_38",
+            "doc_1008"
+        ]
+    },
+    {
+        "query": "electricity load shedding karachi",
+        "relevant_docs": [
+            "doc_31",
+            "doc_483",
+            "doc_729",
+            "doc_2572",
+            "doc_2560"
+        ]
+    },
+    {
+        "query": "invset",
+        "relevant_docs": [
+            "doc_2680",
+            "doc_2681",
+            "doc_2682",
+            "doc_2683",
+            "doc_2684"
+        ]
+    },
+    {
+        "query": "home",
+        "relevant_docs": [
+            "doc_376",
+            "doc_1434",
+            "doc_173",
+            "doc_1918",
+            "doc_1990"
+        ]
+    },
+    {
+        "query": "oil prices down in thin asian trad,business",
+        "relevant_docs": [
+            "doc_668",
+            "doc_406",
+            "doc_401",
+            "doc_538",
+            "doc_2517"
+        ]
+    },
+    {
+        "query": "petrol prices",
+        "relevant_docs": [
+            "doc_2527",
+            "doc_267",
+            "doc_2598",
+            "doc_544",
+            "doc_2639"
+        ]
+    },
+    {
+        "query": "oil prices down in thin asian trad,business",
+        "relevant_docs": [
+            "doc_406",
+            "doc_668",
+            "doc_401",
+            "doc_487",
+            "doc_538"
+        ]
+    },
+    {
+        "query": "home",
+        "relevant_docs": [
+            "doc_376",
+            "doc_1434",
+            "doc_1990",
+            "doc_1284",
+            "doc_173"
+        ]
+    }
+]
